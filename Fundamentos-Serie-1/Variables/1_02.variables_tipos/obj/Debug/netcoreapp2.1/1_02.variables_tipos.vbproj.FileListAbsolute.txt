@@ -1,0 +1,11 @@
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\bin\Debug\netcoreapp2.1\1_02.variables_tipos.deps.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\bin\Debug\netcoreapp2.1\1_02.variables_tipos.runtimeconfig.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\bin\Debug\netcoreapp2.1\1_02.variables_tipos.runtimeconfig.dev.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\bin\Debug\netcoreapp2.1\1_02.variables_tipos.dll
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\bin\Debug\netcoreapp2.1\1_02.variables_tipos.pdb
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\obj\Debug\netcoreapp2.1\1_02.variables_tipos.vbprojAssemblyReference.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\obj\Debug\netcoreapp2.1\1_02.variables_tipos.vbproj.CoreCompileInputs.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\obj\Debug\netcoreapp2.1\1_02.variables_tipos.AssemblyInfoInputs.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\obj\Debug\netcoreapp2.1\1_02.variables_tipos.AssemblyInfo.vb
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\obj\Debug\netcoreapp2.1\1_02.variables_tipos.dll
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_02.variables_tipos\obj\Debug\netcoreapp2.1\1_02.variables_tipos.pdb

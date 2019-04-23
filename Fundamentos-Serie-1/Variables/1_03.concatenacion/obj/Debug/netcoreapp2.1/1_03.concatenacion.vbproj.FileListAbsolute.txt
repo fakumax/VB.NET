@@ -1,0 +1,10 @@
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\bin\Debug\netcoreapp2.1\1_03.concatenacion.deps.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\bin\Debug\netcoreapp2.1\1_03.concatenacion.runtimeconfig.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\bin\Debug\netcoreapp2.1\1_03.concatenacion.runtimeconfig.dev.json
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\bin\Debug\netcoreapp2.1\1_03.concatenacion.dll
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\bin\Debug\netcoreapp2.1\1_03.concatenacion.pdb
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\obj\Debug\netcoreapp2.1\1_03.concatenacion.vbproj.CoreCompileInputs.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\obj\Debug\netcoreapp2.1\1_03.concatenacion.AssemblyInfoInputs.cache
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\obj\Debug\netcoreapp2.1\1_03.concatenacion.AssemblyInfo.vb
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\obj\Debug\netcoreapp2.1\1_03.concatenacion.dll
+C:\Users\n0maGo\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_03.concatenacion\obj\Debug\netcoreapp2.1\1_03.concatenacion.pdb
