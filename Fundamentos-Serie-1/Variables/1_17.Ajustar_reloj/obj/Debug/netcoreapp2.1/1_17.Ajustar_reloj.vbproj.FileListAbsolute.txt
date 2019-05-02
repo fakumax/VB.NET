@@ -1,0 +1,11 @@
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1_17.Ajustar_reloj.deps.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1_17.Ajustar_reloj.runtimeconfig.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1_17.Ajustar_reloj.runtimeconfig.dev.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1_17.Ajustar_reloj.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1_17.Ajustar_reloj.pdb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1_17.Ajustar_reloj.vbprojAssemblyReference.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1_17.Ajustar_reloj.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1_17.Ajustar_reloj.AssemblyInfoInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1_17.Ajustar_reloj.AssemblyInfo.vb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1_17.Ajustar_reloj.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1_17.Ajustar_reloj.pdb

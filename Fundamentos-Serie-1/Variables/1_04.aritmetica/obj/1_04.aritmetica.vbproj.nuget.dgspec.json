@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj": {}
+    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj": {
+    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj",
         "projectName": "1_04.aritmetica",
-        "projectPath": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj",
-        "packagesPath": "C:\\Users\\n0maGo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_04.aritmetica\\obj\\",
+        "projectPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_04.aritmetica\\1_04.aritmetica.vbproj",
+        "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_04.aritmetica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\n0maGo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n0mak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

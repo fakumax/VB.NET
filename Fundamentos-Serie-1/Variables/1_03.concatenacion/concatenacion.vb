@@ -10,10 +10,10 @@ Module concatenacion
         Dim Altura As UShort = 3399
         Dim fechaActividades As Date = #2000-01-31#
         Console.WriteLine("Conversión explicita :")
-        Console.WriteLine("Nombre Empresa: " & nombreEmpresa & vbLf &
-                          "Nombre Calle: " & nombreCalle & vbLf &
-                          "Altura: " & Convert.ToString(Altura) & vbLf &
-                          "Fecha Inicio Actividades: " & Convert.ToString(fechaActividades))
+        Console.WriteLine("Nombre Empresa: " + nombreEmpresa & vbLf &
+                          "Nombre Calle: " + nombreCalle & vbLf &
+                          "Altura: " + Convert.ToString(Altura) + vbLf +
+                          "Fecha Inicio Actividades: " + Convert.ToString(fechaActividades))
 
         Console.WriteLine(vbLf & "Conversión implicita :")
         Console.WriteLine("Nombre Empresa: " & nombreEmpresa & vbLf &

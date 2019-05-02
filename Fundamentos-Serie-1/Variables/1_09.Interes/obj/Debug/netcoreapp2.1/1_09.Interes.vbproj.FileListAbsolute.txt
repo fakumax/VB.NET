@@ -1,0 +1,10 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\bin\Debug\netcoreapp2.1\1_09.Interes.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\bin\Debug\netcoreapp2.1\1_09.Interes.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\bin\Debug\netcoreapp2.1\1_09.Interes.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\bin\Debug\netcoreapp2.1\1_09.Interes.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\bin\Debug\netcoreapp2.1\1_09.Interes.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\obj\Debug\netcoreapp2.1\1_09.Interes.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\obj\Debug\netcoreapp2.1\1_09.Interes.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\obj\Debug\netcoreapp2.1\1_09.Interes.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\obj\Debug\netcoreapp2.1\1_09.Interes.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_09.Interes\obj\Debug\netcoreapp2.1\1_09.Interes.pdb

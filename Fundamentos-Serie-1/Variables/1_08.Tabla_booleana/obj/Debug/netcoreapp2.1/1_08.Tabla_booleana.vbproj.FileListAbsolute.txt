@@ -1,0 +1,10 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\bin\Debug\netcoreapp2.1\1_08.Tabla_booleana.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\bin\Debug\netcoreapp2.1\1_08.Tabla_booleana.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\bin\Debug\netcoreapp2.1\1_08.Tabla_booleana.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\bin\Debug\netcoreapp2.1\1_08.Tabla_booleana.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\bin\Debug\netcoreapp2.1\1_08.Tabla_booleana.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\obj\Debug\netcoreapp2.1\1_08.Tabla_booleana.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\obj\Debug\netcoreapp2.1\1_08.Tabla_booleana.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\obj\Debug\netcoreapp2.1\1_08.Tabla_booleana.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\obj\Debug\netcoreapp2.1\1_08.Tabla_booleana.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_08.Tabla_booleana\obj\Debug\netcoreapp2.1\1_08.Tabla_booleana.pdb
