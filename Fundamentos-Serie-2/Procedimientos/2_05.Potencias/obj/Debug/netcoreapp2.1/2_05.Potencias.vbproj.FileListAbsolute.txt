@@ -1,0 +1,11 @@
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\bin\Debug\netcoreapp2.1\2_05.Potencias.deps.json
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\bin\Debug\netcoreapp2.1\2_05.Potencias.runtimeconfig.json
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\bin\Debug\netcoreapp2.1\2_05.Potencias.runtimeconfig.dev.json
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\bin\Debug\netcoreapp2.1\2_05.Potencias.dll
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\bin\Debug\netcoreapp2.1\2_05.Potencias.pdb
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\obj\Debug\netcoreapp2.1\2_05.Potencias.vbprojAssemblyReference.cache
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\obj\Debug\netcoreapp2.1\2_05.Potencias.vbproj.CoreCompileInputs.cache
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\obj\Debug\netcoreapp2.1\2_05.Potencias.AssemblyInfoInputs.cache
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\obj\Debug\netcoreapp2.1\2_05.Potencias.AssemblyInfo.vb
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\obj\Debug\netcoreapp2.1\2_05.Potencias.dll
+C:\Users\n0maGo\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_05.Potencias\obj\Debug\netcoreapp2.1\2_05.Potencias.pdb
