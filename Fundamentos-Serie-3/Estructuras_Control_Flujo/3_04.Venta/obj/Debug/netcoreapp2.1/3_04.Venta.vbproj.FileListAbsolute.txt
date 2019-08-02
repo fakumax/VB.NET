@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\bin\Debug\netcoreapp2.1\3_04.Venta.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\bin\Debug\netcoreapp2.1\3_04.Venta.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\bin\Debug\netcoreapp2.1\3_04.Venta.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\bin\Debug\netcoreapp2.1\3_04.Venta.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\bin\Debug\netcoreapp2.1\3_04.Venta.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\obj\Debug\netcoreapp2.1\3_04.Venta.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\obj\Debug\netcoreapp2.1\3_04.Venta.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\obj\Debug\netcoreapp2.1\3_04.Venta.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\obj\Debug\netcoreapp2.1\3_04.Venta.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\obj\Debug\netcoreapp2.1\3_04.Venta.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_04.Venta\obj\Debug\netcoreapp2.1\3_04.Venta.vbprojAssemblyReference.cache
