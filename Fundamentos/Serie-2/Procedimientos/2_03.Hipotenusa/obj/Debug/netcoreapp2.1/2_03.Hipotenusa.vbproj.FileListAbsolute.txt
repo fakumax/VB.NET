@@ -1,0 +1,11 @@
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\bin\Debug\netcoreapp2.1\2_03.Hipotenusa.deps.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\bin\Debug\netcoreapp2.1\2_03.Hipotenusa.runtimeconfig.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\bin\Debug\netcoreapp2.1\2_03.Hipotenusa.runtimeconfig.dev.json
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\bin\Debug\netcoreapp2.1\2_03.Hipotenusa.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\bin\Debug\netcoreapp2.1\2_03.Hipotenusa.pdb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\obj\Debug\netcoreapp2.1\2_03.Hipotenusa.vbprojAssemblyReference.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\obj\Debug\netcoreapp2.1\2_03.Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\obj\Debug\netcoreapp2.1\2_03.Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\obj\Debug\netcoreapp2.1\2_03.Hipotenusa.AssemblyInfo.vb
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\obj\Debug\netcoreapp2.1\2_03.Hipotenusa.dll
+C:\Users\n0mak\Source\Repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_03.Hipotenusa\obj\Debug\netcoreapp2.1\2_03.Hipotenusa.pdb

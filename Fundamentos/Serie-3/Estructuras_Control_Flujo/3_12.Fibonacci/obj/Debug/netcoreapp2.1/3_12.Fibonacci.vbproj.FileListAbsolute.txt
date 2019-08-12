@@ -1,0 +1,10 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\bin\Debug\netcoreapp2.1\3_12.Fibonacci.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\bin\Debug\netcoreapp2.1\3_12.Fibonacci.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\bin\Debug\netcoreapp2.1\3_12.Fibonacci.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\bin\Debug\netcoreapp2.1\3_12.Fibonacci.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\bin\Debug\netcoreapp2.1\3_12.Fibonacci.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\obj\Debug\netcoreapp2.1\3_12.Fibonacci.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\obj\Debug\netcoreapp2.1\3_12.Fibonacci.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\obj\Debug\netcoreapp2.1\3_12.Fibonacci.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\obj\Debug\netcoreapp2.1\3_12.Fibonacci.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_12.Fibonacci\obj\Debug\netcoreapp2.1\3_12.Fibonacci.pdb

@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\bin\Debug\netcoreapp2.1\3_17.OperacionesV2.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\bin\Debug\netcoreapp2.1\3_17.OperacionesV2.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\bin\Debug\netcoreapp2.1\3_17.OperacionesV2.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\bin\Debug\netcoreapp2.1\3_17.OperacionesV2.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\bin\Debug\netcoreapp2.1\3_17.OperacionesV2.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\obj\Debug\netcoreapp2.1\3_17.OperacionesV2.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\obj\Debug\netcoreapp2.1\3_17.OperacionesV2.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\obj\Debug\netcoreapp2.1\3_17.OperacionesV2.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\obj\Debug\netcoreapp2.1\3_17.OperacionesV2.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\obj\Debug\netcoreapp2.1\3_17.OperacionesV2.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_17.OperacionesV2\obj\Debug\netcoreapp2.1\3_17.OperacionesV2.pdb

@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\bin\Debug\netcoreapp2.1\2_04.VolumenCilindro.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\bin\Debug\netcoreapp2.1\2_04.VolumenCilindro.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\bin\Debug\netcoreapp2.1\2_04.VolumenCilindro.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\bin\Debug\netcoreapp2.1\2_04.VolumenCilindro.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\bin\Debug\netcoreapp2.1\2_04.VolumenCilindro.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\obj\Debug\netcoreapp2.1\2_04.VolumenCilindro.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\obj\Debug\netcoreapp2.1\2_04.VolumenCilindro.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\obj\Debug\netcoreapp2.1\2_04.VolumenCilindro.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\obj\Debug\netcoreapp2.1\2_04.VolumenCilindro.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\obj\Debug\netcoreapp2.1\2_04.VolumenCilindro.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-procedimientos-fakumax\Procedimientos\2_04.VolumenCilindro\obj\Debug\netcoreapp2.1\2_04.VolumenCilindro.pdb

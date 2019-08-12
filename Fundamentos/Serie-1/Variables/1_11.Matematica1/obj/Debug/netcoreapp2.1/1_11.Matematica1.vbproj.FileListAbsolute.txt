@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\bin\Debug\netcoreapp2.1\1_11.Matematica1.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\bin\Debug\netcoreapp2.1\1_11.Matematica1.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\bin\Debug\netcoreapp2.1\1_11.Matematica1.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\bin\Debug\netcoreapp2.1\1_11.Matematica1.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\bin\Debug\netcoreapp2.1\1_11.Matematica1.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\obj\Debug\netcoreapp2.1\1_11.Matematica1.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\obj\Debug\netcoreapp2.1\1_11.Matematica1.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\obj\Debug\netcoreapp2.1\1_11.Matematica1.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\obj\Debug\netcoreapp2.1\1_11.Matematica1.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\obj\Debug\netcoreapp2.1\1_11.Matematica1.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_11.Matematica1\obj\Debug\netcoreapp2.1\1_11.Matematica1.pdb

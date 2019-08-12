@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\bin\Debug\netcoreapp2.1\1_12.Redondeo.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\bin\Debug\netcoreapp2.1\1_12.Redondeo.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\bin\Debug\netcoreapp2.1\1_12.Redondeo.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\bin\Debug\netcoreapp2.1\1_12.Redondeo.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\bin\Debug\netcoreapp2.1\1_12.Redondeo.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\obj\Debug\netcoreapp2.1\1_12.Redondeo.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\obj\Debug\netcoreapp2.1\1_12.Redondeo.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\obj\Debug\netcoreapp2.1\1_12.Redondeo.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\obj\Debug\netcoreapp2.1\1_12.Redondeo.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\obj\Debug\netcoreapp2.1\1_12.Redondeo.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_12.Redondeo\obj\Debug\netcoreapp2.1\1_12.Redondeo.pdb

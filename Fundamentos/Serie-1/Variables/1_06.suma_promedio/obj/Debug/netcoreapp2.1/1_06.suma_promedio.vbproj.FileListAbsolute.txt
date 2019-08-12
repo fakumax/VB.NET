@@ -1,0 +1,10 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\bin\Debug\netcoreapp2.1\1_06.suma_promedio.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\bin\Debug\netcoreapp2.1\1_06.suma_promedio.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\bin\Debug\netcoreapp2.1\1_06.suma_promedio.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\bin\Debug\netcoreapp2.1\1_06.suma_promedio.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\bin\Debug\netcoreapp2.1\1_06.suma_promedio.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\obj\Debug\netcoreapp2.1\1_06.suma_promedio.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\obj\Debug\netcoreapp2.1\1_06.suma_promedio.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\obj\Debug\netcoreapp2.1\1_06.suma_promedio.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\obj\Debug\netcoreapp2.1\1_06.suma_promedio.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_06.suma_promedio\obj\Debug\netcoreapp2.1\1_06.suma_promedio.pdb

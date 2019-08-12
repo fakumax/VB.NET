@@ -1,0 +1,10 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\bin\Debug\netcoreapp2.1\1_13.Mayor.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\bin\Debug\netcoreapp2.1\1_13.Mayor.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\bin\Debug\netcoreapp2.1\1_13.Mayor.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\bin\Debug\netcoreapp2.1\1_13.Mayor.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\bin\Debug\netcoreapp2.1\1_13.Mayor.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\obj\Debug\netcoreapp2.1\1_13.Mayor.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\obj\Debug\netcoreapp2.1\1_13.Mayor.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\obj\Debug\netcoreapp2.1\1_13.Mayor.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\obj\Debug\netcoreapp2.1\1_13.Mayor.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_13.Mayor\obj\Debug\netcoreapp2.1\1_13.Mayor.pdb

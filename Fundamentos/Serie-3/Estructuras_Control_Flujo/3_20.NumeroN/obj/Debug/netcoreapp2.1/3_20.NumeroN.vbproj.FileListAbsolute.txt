@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\bin\Debug\netcoreapp2.1\3_20.NumeroN.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\bin\Debug\netcoreapp2.1\3_20.NumeroN.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\bin\Debug\netcoreapp2.1\3_20.NumeroN.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\bin\Debug\netcoreapp2.1\3_20.NumeroN.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\bin\Debug\netcoreapp2.1\3_20.NumeroN.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\obj\Debug\netcoreapp2.1\3_20.NumeroN.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\obj\Debug\netcoreapp2.1\3_20.NumeroN.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\obj\Debug\netcoreapp2.1\3_20.NumeroN.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\obj\Debug\netcoreapp2.1\3_20.NumeroN.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\obj\Debug\netcoreapp2.1\3_20.NumeroN.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e203-estructuras-de-control-fakumax\Estructuras_Control_Flujo\3_20.NumeroN\obj\Debug\netcoreapp2.1\3_20.NumeroN.pdb

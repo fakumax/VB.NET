@@ -1,0 +1,11 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\bin\Debug\1_14.Cadenas1.exe.config
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\bin\Debug\1_14.Cadenas1.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\bin\Debug\1_14.Cadenas1.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\bin\Debug\1_14.Cadenas1.xml
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\1_14.Cadenas1.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\_1_14.Cadenas1.Resources.resources
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\1_14.Cadenas1.vbproj.GenerateResource.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\1_14.Cadenas1.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\1_14.Cadenas1.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\1_14.Cadenas1.xml
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e202-variables-operaciones-fakumax\Variables\1_14.Cadenas1\obj\Debug\1_14.Cadenas1.pdb
