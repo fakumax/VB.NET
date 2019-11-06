@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0maGo\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0maGo\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0maGo\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj",
         "projectName": "1_17.Ajustar_reloj",
-        "projectPath": "C:\\Users\\n0maGo\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj",
-        "packagesPath": "C:\\Users\\n0maGo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0maGo\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos-Serie-1\\Variables\\1_17.Ajustar_reloj\\obj\\",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-1\\Variables\\1_17.Ajustar_reloj\\1_17.Ajustar_reloj.vbproj",
+        "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-1\\Variables\\1_17.Ajustar_reloj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\n0maGo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n0mak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,16 +42,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

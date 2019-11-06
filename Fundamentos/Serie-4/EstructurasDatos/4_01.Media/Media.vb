@@ -16,6 +16,7 @@ Module Media
             valor(x) = Console.ReadLine
             sumatoria += valor(x)
         Next
+        Console.WriteLine("La MEDIA es : " & sumatoria / valor.Count)
         Console.WriteLine("Los elementos contenidos son : ")
         For Each m In valor
             Console.WriteLine("Elemento : {0}  - Desviación : {1}", m, m - (sumatoria / valor.Count))

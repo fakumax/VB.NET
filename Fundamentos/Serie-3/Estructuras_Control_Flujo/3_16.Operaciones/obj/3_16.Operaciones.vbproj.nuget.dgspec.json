@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj",
         "projectName": "3_16.Operaciones",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\3_16.Operaciones.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_16.Operaciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

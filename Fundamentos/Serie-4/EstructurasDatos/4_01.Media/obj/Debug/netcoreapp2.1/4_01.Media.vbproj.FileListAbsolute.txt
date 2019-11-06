@@ -20,3 +20,13 @@ C:\Users\n0mak\source\repos\fakumax\VB.NET\Fundamentos-Serie-4\EstructurasDatos\
 C:\Users\n0mak\source\repos\fakumax\VB.NET\Fundamentos-Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.AssemblyInfo.vb
 C:\Users\n0mak\source\repos\fakumax\VB.NET\Fundamentos-Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.dll
 C:\Users\n0mak\source\repos\fakumax\VB.NET\Fundamentos-Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.pdb
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.deps.json
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.runtimeconfig.json
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.runtimeconfig.dev.json
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.dll
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\bin\Debug\netcoreapp2.1\4_01.Media.pdb
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.vbprojAssemblyReference.cache
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.AssemblyInfoInputs.cache
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.AssemblyInfo.vb
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.dll
+C:\Users\n0mak\Source\Repos\fakumax\VB.NET\Fundamentos\Serie-4\EstructurasDatos\4_01.Media\obj\Debug\netcoreapp2.1\4_01.Media.pdb

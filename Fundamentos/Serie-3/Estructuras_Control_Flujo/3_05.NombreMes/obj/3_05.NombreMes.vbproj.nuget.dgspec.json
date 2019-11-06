@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj",
         "projectName": "3_05.NombreMes",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\3_05.NombreMes.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos-Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-3\\Estructuras_Control_Flujo\\3_05.NombreMes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

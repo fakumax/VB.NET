@@ -9,26 +9,47 @@ Imports System
 '* Se repite el proceso hasta que el código sea cero.
 Module Ventas
     Sub Main(args As String())
-        productoBuscar()
-
-    End Sub
-    Sub productoBuscar()
-        Dim codigo = New Integer() {1, 2, 3}
+        Dim codigo = New UShort() {1, 2, 3}
         Dim nombre = New String() {"papa", "manzana", "uva"}
         Dim precio = New Single() {2.6, 1.2, 4.5}
-        Dim buscar As UShort
-        Console.WriteLine("Ingrese un valor : ")
-        buscar = Console.ReadLine
-        Do While True
-            For x = 0 To codigo.GetUpperBound(0)
-                If buscar = codigo(x) Then
-                    Console.WriteLine("{0} - {1}     - {2} ", codigo(x), nombre(x), precio(x))
-                End If
-            Next
+        Dim total, subtotal As Decimal
+        Dim buscar As UShort = ingresoValor()
+        Dim cantidad, indice As UShort
+        Do Until buscar = 0
 
-
+            If existe(buscar, codigo, indice) Then
+                'Console.WriteLine(indice)
+                Console.WriteLine("PRODUCTO : " & nombre(indice))
+                Console.WriteLine("PRECIO : " & precio(indice))
+                Console.Write(vbNewLine & "Cantidad del producto : ")
+                cantidad = Console.ReadLine
+                subtotal = precio(indice) * cantidad
+                Console.WriteLine("-- SUBTOTAL -- : " & subtotal)
+                total += subtotal
+            Else
+                Console.WriteLine("Reingrese valor... ")
+            End If
+            buscar = ingresoValor()
         Loop
+        Console.WriteLine(vbNewLine & "El TOTAL es : " & total)
 
     End Sub
 
+    Function existe(buscar As UShort, codigo() As UShort, ByRef indice As UShort) As Boolean
+
+        For x = 0 To codigo.Length - 1
+            If codigo(x) = buscar Then
+                ' reduzco el indice en -1 para que no explote
+                indice = buscar - 1
+                Return True
+            End If
+        Next
+        Return False
+
+    End Function
+
+    Function ingresoValor() As UShort
+        Console.Write("Ingrese código del producto: ")
+        Return Console.ReadLine
+    End Function
 End Module

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj",
         "projectName": "4_01.Media",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\4_01.Media.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\fakumax\\VB.NET\\Fundamentos\\Serie-4\\EstructurasDatos\\4_01.Media\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
