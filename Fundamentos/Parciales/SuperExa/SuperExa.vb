@@ -18,7 +18,7 @@ Module Program
         Do
             Console.Write("Ingrese letra ({0}):", L - 3)
             letra = Console.ReadLine
-        Loop Until verificaRango("Letra", AscW(letra), AscW("A"), AscW("F"), "a") And validaRepetido(letra, ticket)
+        Loop Until verificaRango("Letra", AscW(letra), AscW("A"), AscW("F"), "a") And validaNoRepetido(letra, ticket)
         Return letra
     End Function
     Function validaNumero(n As Byte, ticket() As Char) As Char
@@ -26,7 +26,7 @@ Module Program
         Do
             Console.Write("Ingrese número ({0}): ", n + 1)
             numero = Console.ReadLine
-        Loop Until verificaRango("Número", numero, 0, 9, "o") And validaRepetido(Convert.ToChar(numero), ticket)
+        Loop Until verificaRango("Número", numero, 0, 9, "o") And validaNoRepetido(Convert.ToString(numero), ticket)
         Return Convert.ToString(numero)
     End Function
     Function verificaRango(texto As String, numero As Byte, valor1 As Byte, valor2 As Byte, caracter As Char) As Boolean
@@ -37,7 +37,7 @@ Module Program
             Return False
         End If
     End Function
-    Function validaRepetido(numero As Char, ticket() As Char) As Boolean
+    Function validaNoRepetido(numero As Char, ticket() As Char) As Boolean
         For Each m In ticket
             If numero = m Then
                 Console.WriteLine("valor repetido, reintente.")
