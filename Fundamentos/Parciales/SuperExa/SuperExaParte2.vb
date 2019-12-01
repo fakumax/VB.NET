@@ -6,6 +6,7 @@ Module testing
     Private valor As New Random()
     Sub Main(args As String())
         Console.WriteLine("Sus 10 tickets para el sorteo son : ")
+
         For x = 1 To cantidad
             GetOneTicket()
             Console.WriteLine()
@@ -47,7 +48,7 @@ Module testing
 
         Return ticket
     End Function
-    Function GetNumero(ticket) As Char
+    Function GetNumero(ticket() As Char) As Char
         Dim verifica As Char
         Do
             verifica = ChrW(valor.Next(49, 57))
@@ -56,7 +57,7 @@ Module testing
         Return verifica
 
     End Function
-    Function GetLetra(ticket) As Char
+    Function GetLetra(ticket() As Char) As Char
         Dim verifica As Char
         Do
             verifica = ChrW(valor.Next(65, 70))
