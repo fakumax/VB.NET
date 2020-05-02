@@ -1,0 +1,12 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\bin\Debug\netcoreapp3.1\1_05.CuadraticaCs.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\bin\Debug\netcoreapp3.1\1_05.CuadraticaCs.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\bin\Debug\netcoreapp3.1\1_05.CuadraticaCs.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\bin\Debug\netcoreapp3.1\1_05.CuadraticaCs.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\bin\Debug\netcoreapp3.1\1_05.CuadraticaCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\bin\Debug\netcoreapp3.1\1_05.CuadraticaCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\obj\Debug\netcoreapp3.1\1_05.CuadraticaCs.csproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\obj\Debug\netcoreapp3.1\1_05.CuadraticaCs.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\obj\Debug\netcoreapp3.1\1_05.CuadraticaCs.AssemblyInfo.cs
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\obj\Debug\netcoreapp3.1\1_05.CuadraticaCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\obj\Debug\netcoreapp3.1\1_05.CuadraticaCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaCs\obj\Debug\netcoreapp3.1\1_05.CuadraticaCs.genruntimeconfig.cache

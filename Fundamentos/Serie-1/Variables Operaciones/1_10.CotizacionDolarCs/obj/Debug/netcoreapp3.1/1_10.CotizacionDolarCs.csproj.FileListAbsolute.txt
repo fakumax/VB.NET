@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\bin\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\bin\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\bin\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\bin\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\bin\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\bin\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.csprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.csproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.AssemblyInfo.cs
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_10.CotizacionDolarCs\obj\Debug\netcoreapp3.1\1_10.CotizacionDolarCs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\bin\Debug\netcoreapp3.1\1_05.CuadraticaVb.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\bin\Debug\netcoreapp3.1\1_05.CuadraticaVb.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\bin\Debug\netcoreapp3.1\1_05.CuadraticaVb.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\bin\Debug\netcoreapp3.1\1_05.CuadraticaVb.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\bin\Debug\netcoreapp3.1\1_05.CuadraticaVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\bin\Debug\netcoreapp3.1\1_05.CuadraticaVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_05.CuadraticaVb\obj\Debug\netcoreapp3.1\1_05.CuadraticaVb.genruntimeconfig.cache

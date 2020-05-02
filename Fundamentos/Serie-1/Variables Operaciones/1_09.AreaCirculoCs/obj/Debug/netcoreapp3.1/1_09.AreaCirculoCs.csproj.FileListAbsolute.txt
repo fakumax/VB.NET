@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\bin\Debug\netcoreapp3.1\1_09.AreaCirculoCs.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\bin\Debug\netcoreapp3.1\1_09.AreaCirculoCs.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\bin\Debug\netcoreapp3.1\1_09.AreaCirculoCs.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\bin\Debug\netcoreapp3.1\1_09.AreaCirculoCs.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\bin\Debug\netcoreapp3.1\1_09.AreaCirculoCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\bin\Debug\netcoreapp3.1\1_09.AreaCirculoCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.csprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.csproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.AssemblyInfo.cs
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_09.AreaCirculoCs\obj\Debug\netcoreapp3.1\1_09.AreaCirculoCs.genruntimeconfig.cache

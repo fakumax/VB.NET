@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\bin\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\bin\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\bin\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\bin\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\bin\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\bin\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.csprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.csproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.AssemblyInfo.cs
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_06.GradosFahrenheitCs\obj\Debug\netcoreapp3.1\1_06.GradosFahrenheitCs.genruntimeconfig.cache

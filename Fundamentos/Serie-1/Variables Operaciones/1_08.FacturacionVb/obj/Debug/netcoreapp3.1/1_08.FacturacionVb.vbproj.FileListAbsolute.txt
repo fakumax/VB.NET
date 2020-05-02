@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\bin\Debug\netcoreapp3.1\1_08.FacturacionVb.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\bin\Debug\netcoreapp3.1\1_08.FacturacionVb.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\bin\Debug\netcoreapp3.1\1_08.FacturacionVb.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\bin\Debug\netcoreapp3.1\1_08.FacturacionVb.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\bin\Debug\netcoreapp3.1\1_08.FacturacionVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\bin\Debug\netcoreapp3.1\1_08.FacturacionVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_08.FacturacionVb\obj\Debug\netcoreapp3.1\1_08.FacturacionVb.genruntimeconfig.cache

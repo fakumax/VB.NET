@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\bin\Debug\netcoreapp3.1\1_01.CostosVb.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\bin\Debug\netcoreapp3.1\1_01.CostosVb.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\bin\Debug\netcoreapp3.1\1_01.CostosVb.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\bin\Debug\netcoreapp3.1\1_01.CostosVb.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\bin\Debug\netcoreapp3.1\1_01.CostosVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\bin\Debug\netcoreapp3.1\1_01.CostosVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_01.CostosVb\obj\Debug\netcoreapp3.1\1_01.CostosVb.genruntimeconfig.cache

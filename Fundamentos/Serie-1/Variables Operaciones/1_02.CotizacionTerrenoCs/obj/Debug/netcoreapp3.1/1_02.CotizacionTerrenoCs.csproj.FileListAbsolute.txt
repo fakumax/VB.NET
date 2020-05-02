@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.csprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.csproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.AssemblyInfo.cs
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\bin\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\bin\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\bin\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\bin\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\bin\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\bin\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_02.CotizacionTerrenoCs\obj\Debug\netcoreapp3.1\1_02.CotizacionTerrenoCs.genruntimeconfig.cache

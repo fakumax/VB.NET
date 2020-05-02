@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_07.EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\1_07.EquivalenciasPiesVb.genruntimeconfig.cache

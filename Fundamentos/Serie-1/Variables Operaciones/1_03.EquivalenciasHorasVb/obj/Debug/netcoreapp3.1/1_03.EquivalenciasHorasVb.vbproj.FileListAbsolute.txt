@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.vbproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_03.EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\1_03.EquivalenciasHorasVb.genruntimeconfig.cache

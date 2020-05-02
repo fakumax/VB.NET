@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.csprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.csproj.CoreCompileInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.AssemblyInfo.cs
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s20e201-variables-operaciones-fakumax\Variables Operaciones\1_04.VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\1_04.VelocidadDeLaLuzCs.genruntimeconfig.cache

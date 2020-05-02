@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1_09.AreaCirculoCs/1.0.0": {
+        "runtime": {
+          "1_09.AreaCirculoCs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_09.AreaCirculoCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
